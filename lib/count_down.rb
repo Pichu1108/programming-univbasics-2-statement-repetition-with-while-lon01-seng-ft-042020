@@ -6,5 +6,5 @@ while count > 0 do
   else
     puts "#{count}"
   end
-  count += 1;
+  count -= 1;
 end
